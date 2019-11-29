@@ -4,7 +4,7 @@ Team Name: Oh! Friends
 
 Project Name: Golden Way
 
-Member : Somin Park, Hyunho Yoon, Eunwoo Jung
+Member : Somin Park, Hyunho Yun, Eunwoo Jung
 
 Date : 2019.11.29
 
